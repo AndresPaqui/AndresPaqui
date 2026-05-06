@@ -23,6 +23,6 @@ Apasionado por construir aplicaciones web de alto rendimiento y soluciones lógi
 ### 🎯 Actualmente...
 * Profundizando en **APIs REST** y escalabilidad Frontend.
 * 📩 **Contacto:** paqui8090@gmail.com
-* 💼 **LinkedIn:** [En proceso] | 🌐 **Portfolio:** [En proceso]
+* 💼 **LinkedIn:** [Andres Paqui](https://www.linkedin.com/in/andres-paqui-375694312/) | 🌐 **Portfolio:** [En proceso]
 
 *"El código limpio no se escribe, se pule."*
